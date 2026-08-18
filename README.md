@@ -35,4 +35,4 @@ It's aimed at everyday users as much as power users.
 - 200 MB free disk space
 
 ## Legal
-> This project is shared as-is. All product names and logos belong to their respective owners.
+> This project is shared as-is. All product names and logos belong to their respective owners. 
